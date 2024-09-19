@@ -21,9 +21,12 @@ To analyze service request data for 2023 and 2024, enhance operational efficienc
 
 ![image](https://github.com/user-attachments/assets/bce89263-d93a-4239-b5d1-93fe24eab598)
 ![image](https://github.com/user-attachments/assets/bce89263-d93a-4239-b5d1-93fe24eab598)
+![image](https://github.com/user-attachments/assets/be600df6-7283-46ee-b0ae-b5d14f7ff48c)
+![image](https://github.com/user-attachments/assets/be600df6-7283-46ee-b0ae-b5d14f7ff48c)
+
 
 ### Methodology
-•⁠  ⁠ETL using AWS Glue
+•⁠  ⁠ETL using AWS Glue 
 •⁠  ⁠Data cleaning and standardization
 •⁠  ⁠Real-time updates for daily reflection on service handling
 •⁠  ⁠Analyzed using Amazon Redshift and Athena for insights
